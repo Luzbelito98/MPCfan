@@ -1,0 +1,23 @@
+h1 {
+  color: black;
+}
+
+h2 {
+  color: grey;
+}
+
+.carta {
+  width: 50%;
+}
+
+.contenedor {
+  width: 100%;
+  display: grid;
+  margin: auto;
+}
+
+.banner {
+  width: 100%;
+  display: flex;
+  margin: auto;
+}
